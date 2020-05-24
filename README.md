@@ -89,7 +89,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.![GitHub stars](https://img.shields.io/github/stars/ryo-ma/deno-websocket?style=plastic)
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.![GitHub stars](https://img.shields.io/github/stars/nekobato/deno-xml-parser?style=plastic)
 - [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.![GitHub stars](https://img.shields.io/github/stars/Caesar2011/denotrain?style=plastic)
-- [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.![GitHub stars](https://img.shields.io/github/stars/timonson/djwt?style=plastic)
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.![GitHub stars](https://img.shields.io/github/stars/syumai/dinatra?style=plastic)
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.![GitHub stars](https://img.shields.io/github/stars/manyuanrong/dso?style=plastic)
