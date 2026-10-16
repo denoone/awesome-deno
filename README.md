@@ -131,6 +131,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 ## Tools
 
+- [pboss](https://github.com/procboss/pboss) - Manage processes across Deno, Node.js, Bun, and other runtimes with clustering, automatic restarts, health checks, and PM2-compatible ecosystem configuration. ![GitHub stars](https://img.shields.io/github/stars/procboss/pboss?style=plastic)
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.![GitHub stars](https://img.shields.io/github/stars/ekaragodin/clone?style=plastic)
 - [dedep](https://github.com/egoist/dedep) - Manage dependency versions.![GitHub stars](https://img.shields.io/github/stars/egoist/dedep?style=plastic)
 - [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.![GitHub stars](https://img.shields.io/github/stars/syumai/denoget?style=plastic)
